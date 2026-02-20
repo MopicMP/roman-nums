@@ -1,0 +1,5 @@
+[
+  "tests/test_roman_nums.py::TestNums::test_basic",
+  "tests/test_roman_nums.py::TestNums::test_empty",
+  "tests/test_roman_nums.py::TestNums::test_type_error"
+]
